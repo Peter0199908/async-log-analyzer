@@ -22,5 +22,5 @@ A high-performance, asynchronous log analysis tool built with Python.
 
 ```bash
 
-git clone https://github.com/Peter019908/async-log-analyzer.git
+https://github.com/Peter0199908/async-log-analyzer.git
 
